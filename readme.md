@@ -1,0 +1,2 @@
+- Each example can be run in VSCode
+- See package.json for original attribution
